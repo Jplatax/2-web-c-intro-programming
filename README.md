@@ -36,9 +36,9 @@ Tecnologias utilizadas
 
 😎Como ver el proyecto.
 URL del proyecto publicado: 
--
+-https://jplatax.github.io/2-web-c-intro-programming/
 Repositorio en GitHub
--
+-https://github.com/Jplatax/2-web-c-intro-programming.git
 
 
 Autor
